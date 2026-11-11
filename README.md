@@ -14,7 +14,7 @@ Once deployed, send Tracy the GitHub Pages URL. Results refresh after each succe
 
 ## Hosting
 
-The intended public URL is https://juliermorris-max.github.io/tracy-content-opportunities/ . The project is not deployed yet; GitHub repository creation and Pages setup require the account owner because the integration lacks repository-administration and Pages permissions. The final status is recorded in `VALIDATION.md`.
+The intended public URL is https://juliermorris-max.github.io/tracy-content-opportunities/ . The public repository has been created and the first hosted search passed. Publication is waiting for the account owner to select **GitHub Actions** under **Settings → Pages → Build and deployment → Source**, because the integration lacks Pages administration permissions. The final status is recorded in `VALIDATION.md`.
 
 The repository uses GitHub Actions as its Pages publishing source. The **Daily job search** workflow runs tests, performs the search, saves the successful report/history and deploys `docs/`. No resume or personal contact information is published.
 

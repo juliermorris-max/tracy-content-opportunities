@@ -34,3 +34,15 @@ The excluded freelance listing used a worldwide feed label but its application p
 - A future scheduled run: schedule logic tested, but no hosted automation has run.
 
 No deployed URL, screenshot or end-to-end hosting success is claimed.
+
+## GitHub-hosted verification
+
+- Public repository: https://github.com/juliermorris-max/tracy-content-opportunities
+- Hosted workflow run: https://github.com/juliermorris-max/tracy-content-opportunities/actions/runs/43113422836
+- All 42 tests passed on GitHub's runner.
+- All 23 sources responded; 1,613 postings reviewed; 3 verified matches published into the repository report at 2026-11-11T22:38:31.926971+00:00.
+- First-found history and latest report were successfully committed by the workflow.
+- Pages artifact and diagnostics artifact uploaded successfully.
+- The daily workflow is active with its two gated UTC schedules.
+- Deployment job failed with HTTP 404 because GitHub Pages has not yet been enabled. Anonymous public URL also returns 404. Account owner must select GitHub Actions as the Pages source. Afterward, rerun only the failed deployment job; the completed search artifact can be reused.
+- No change was made to the existing private job-search-agent-system repository.
