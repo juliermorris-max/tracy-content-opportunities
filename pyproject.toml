@@ -1,0 +1,6 @@
+[project]
+name = "tracy-job-search"
+version = "2.0.0"
+description = "Daily Spain-eligible content opportunities for Tracy"
+requires-python = ">=3.11"
+dependencies = []

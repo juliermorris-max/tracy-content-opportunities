@@ -1,0 +1,117 @@
+[
+  {
+    "kind": "greenhouse",
+    "name": "Typeform",
+    "url": "https://boards-api.greenhouse.io/v1/boards/typeform/jobs?content=true"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "Canonical",
+    "url": "https://boards-api.greenhouse.io/v1/boards/canonical/jobs?content=true"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "Flo Health",
+    "url": "https://boards-api.greenhouse.io/v1/boards/flohealth/jobs?content=true"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "Grafanalabs",
+    "url": "https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs?content=true"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "Wikimedia",
+    "url": "https://boards-api.greenhouse.io/v1/boards/wikimedia/jobs?content=true"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "N26",
+    "url": "https://boards-api.greenhouse.io/v1/boards/n26/jobs?content=true"
+  },
+  {
+    "kind": "lever",
+    "name": "Contentsquare",
+    "url": "https://api.lever.co/v0/postings/contentsquare?mode=json"
+  },
+  {
+    "kind": "lever",
+    "name": "Heetch",
+    "url": "https://api.lever.co/v0/postings/heetch?mode=json"
+  },
+  {
+    "kind": "ashby",
+    "name": "Synthesia",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/Synthesia?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "n8n",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/n8n?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "DeepL",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/deepl?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "ElevenLabs",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "Pleo",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/pleo?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "Linear",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/linear?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "Lovable",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/lovable?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "Notion",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/notion?includeCompensation=true"
+  },
+  {
+    "kind": "remotive",
+    "name": "Remotive",
+    "url": "https://remotive.com/api/remote-jobs"
+  },
+  {
+    "kind": "arbeitnow",
+    "name": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/api/job-board-api"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "Wallapop",
+    "url": "https://boards-api.greenhouse.io/v1/boards/wallapop/jobs?content=true"
+  },
+  {
+    "kind": "greenhouse",
+    "name": "Modern Health",
+    "url": "https://boards-api.greenhouse.io/v1/boards/modernhealth/jobs?content=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "Docplanner",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/docplanner?includeCompensation=true"
+  },
+  {
+    "kind": "ashby",
+    "name": "Perk",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/perk?includeCompensation=true"
+  },
+  {
+    "kind": "lever",
+    "name": "Lodgify",
+    "url": "https://api.lever.co/v0/postings/lodgify?mode=json"
+  }
+]

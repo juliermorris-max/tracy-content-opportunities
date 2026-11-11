@@ -1,0 +1,215 @@
+{
+  "completed_at": "2026-11-11T22:25:06.891964+00:00",
+  "sources_ok": 23,
+  "sources_total": 23,
+  "postings_scanned": 1613,
+  "jobs": [
+    {
+      "title": "Content Marketing Manager",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8046372",
+      "remote": true,
+      "employment": "Not specified",
+      "salary": "Not published",
+      "published": "",
+      "source": "Canonical",
+      "source_kind": "greenhouse",
+      "score": 69,
+      "why": [
+        "Content strategy and governance",
+        "Content workflows and operations",
+        "Writing and editorial craft",
+        "SEO and content marketing"
+      ],
+      "arrangement": "Remote · Home based - EMEA",
+      "location_evidence": "Regional eligibility: Home based - EMEA. Confirm Spain hiring and any travel requirements.",
+      "regional": true,
+      "notes": [
+        "Confirm Spain eligibility",
+        "Check travel expectations"
+      ],
+      "link_status": "Posting page checked",
+      "first_found": "2026-11-11T22:21:15.457173+00:00"
+    },
+    {
+      "title": "Storytelling and narrative lead",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8288908",
+      "remote": true,
+      "employment": "Not specified",
+      "salary": "Not published",
+      "published": "",
+      "source": "Canonical",
+      "source_kind": "greenhouse",
+      "score": 69,
+      "why": [
+        "Content strategy and governance",
+        "Content workflows and operations",
+        "Writing and editorial craft",
+        "SEO and content marketing"
+      ],
+      "arrangement": "Remote · Home based - EMEA",
+      "location_evidence": "Regional eligibility: Home based - EMEA. Confirm Spain hiring and any travel requirements.",
+      "regional": true,
+      "notes": [
+        "Confirm Spain eligibility",
+        "Check travel expectations"
+      ],
+      "link_status": "Posting page checked",
+      "first_found": "2026-11-11T22:21:15.457173+00:00"
+    },
+    {
+      "title": "Content marketing lead",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6943565",
+      "remote": true,
+      "employment": "Not specified",
+      "salary": "Not published",
+      "published": "",
+      "source": "Canonical",
+      "source_kind": "greenhouse",
+      "score": 63,
+      "why": [
+        "Content strategy and governance",
+        "Content workflows and operations",
+        "SEO and content marketing"
+      ],
+      "arrangement": "Remote · Home based - EMEA",
+      "location_evidence": "Regional eligibility: Home based - EMEA. Confirm Spain hiring and any travel requirements.",
+      "regional": true,
+      "notes": [
+        "Confirm Spain eligibility",
+        "Check travel expectations"
+      ],
+      "link_status": "Posting page checked",
+      "first_found": "2026-11-11T22:21:15.457173+00:00"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "error": "Link validation: Link validation: Employer location conflicts with Spain eligibility from feed"
+    }
+  ],
+  "source_status": [
+    {
+      "name": "Typeform",
+      "status": "OK",
+      "count": 6
+    },
+    {
+      "name": "Canonical",
+      "status": "OK",
+      "count": 316
+    },
+    {
+      "name": "Flo Health",
+      "status": "OK",
+      "count": 31
+    },
+    {
+      "name": "Grafanalabs",
+      "status": "OK",
+      "count": 144
+    },
+    {
+      "name": "Wikimedia",
+      "status": "OK",
+      "count": 16
+    },
+    {
+      "name": "N26",
+      "status": "OK",
+      "count": 37
+    },
+    {
+      "name": "Contentsquare",
+      "status": "OK",
+      "count": 28
+    },
+    {
+      "name": "Heetch",
+      "status": "OK",
+      "count": 22
+    },
+    {
+      "name": "Synthesia",
+      "status": "OK",
+      "count": 32
+    },
+    {
+      "name": "n8n",
+      "status": "OK",
+      "count": 54
+    },
+    {
+      "name": "DeepL",
+      "status": "OK",
+      "count": 7
+    },
+    {
+      "name": "ElevenLabs",
+      "status": "OK",
+      "count": 129
+    },
+    {
+      "name": "Pleo",
+      "status": "OK",
+      "count": 37
+    },
+    {
+      "name": "Linear",
+      "status": "OK",
+      "count": 33
+    },
+    {
+      "name": "Lovable",
+      "status": "OK",
+      "count": 76
+    },
+    {
+      "name": "Notion",
+      "status": "OK",
+      "count": 156
+    },
+    {
+      "name": "Remotive",
+      "status": "OK",
+      "count": 13
+    },
+    {
+      "name": "Arbeitnow",
+      "status": "OK",
+      "count": 300
+    },
+    {
+      "name": "Wallapop",
+      "status": "OK",
+      "count": 4
+    },
+    {
+      "name": "Modern Health",
+      "status": "OK",
+      "count": 2
+    },
+    {
+      "name": "Docplanner",
+      "status": "OK",
+      "count": 42
+    },
+    {
+      "name": "Perk",
+      "status": "OK",
+      "count": 118
+    },
+    {
+      "name": "Lodgify",
+      "status": "OK",
+      "count": 10
+    }
+  ]
+}
