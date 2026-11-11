@@ -28,7 +28,7 @@ The excluded freelance listing used a worldwide feed label but its application p
 
 ## Not yet verified
 
-- GitHub repository creation, workflow execution on GitHub and Pages publication: blocked pending GitHub authorization.
+- GitHub connection verified for juliermorris-max. Repository creation was rejected by both GraphQL and REST with “Resource not accessible by integration”; installed permissions include contents/actions/workflows write but omit administration/Pages. Account owner must create a new public repository and select GitHub Actions as its Pages source. No existing repository was modified. Hosted workflow execution and Pages publication remain unverified.
 - Anonymous public-site access: no deployment yet.
 - Visual desktop/mobile browser QA: cloud browser-control tools unavailable. Following the Sites skill, no improvised preview server or alternate browser-control path was used.
 - A future scheduled run: schedule logic tested, but no hosted automation has run.
