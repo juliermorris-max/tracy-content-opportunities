@@ -1,8 +1,8 @@
 {
-  "completed_at": "2026-11-12T15:57:35.763535+00:00",
+  "completed_at": "2026-11-13T15:21:11.588343+00:00",
   "sources_ok": 23,
   "sources_total": 23,
-  "postings_scanned": 1628,
+  "postings_scanned": 1637,
   "jobs": [
     {
       "title": "Content Marketing Manager",
@@ -109,12 +109,12 @@
     {
       "name": "Flo Health",
       "status": "OK",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Grafanalabs",
       "status": "OK",
-      "count": 153
+      "count": 154
     },
     {
       "name": "Wikimedia",
@@ -144,7 +144,7 @@
     {
       "name": "n8n",
       "status": "OK",
-      "count": 55
+      "count": 56
     },
     {
       "name": "DeepL",
@@ -154,12 +154,12 @@
     {
       "name": "ElevenLabs",
       "status": "OK",
-      "count": 130
+      "count": 129
     },
     {
       "name": "Pleo",
       "status": "OK",
-      "count": 37
+      "count": 35
     },
     {
       "name": "Linear",
@@ -169,17 +169,17 @@
     {
       "name": "Lovable",
       "status": "OK",
-      "count": 77
+      "count": 78
     },
     {
       "name": "Notion",
       "status": "OK",
-      "count": 161
+      "count": 167
     },
     {
       "name": "Remotive",
       "status": "OK",
-      "count": 14
+      "count": 16
     },
     {
       "name": "Arbeitnow",
@@ -204,12 +204,12 @@
     {
       "name": "Perk",
       "status": "OK",
-      "count": 114
+      "count": 118
     },
     {
       "name": "Lodgify",
       "status": "OK",
-      "count": 10
+      "count": 8
     }
   ]
 }
