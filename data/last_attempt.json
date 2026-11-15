@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-14T14:06:47.230268+00:00",
+  "attempted_at": "2026-11-15T14:43:52.581477+00:00",
   "sources_ok": 23,
   "sources_total": 23,
-  "postings_scanned": 1621,
+  "postings_scanned": 1620,
   "candidates": 4,
   "verified": 3,
   "errors": [
@@ -91,7 +91,7 @@
     {
       "name": "Notion",
       "status": "OK",
-      "count": 166
+      "count": 165
     },
     {
       "name": "Remotive",
