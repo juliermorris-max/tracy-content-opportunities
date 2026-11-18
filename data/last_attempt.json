@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-17T16:51:31.422429+00:00",
+  "attempted_at": "2026-11-18T16:25:06.187758+00:00",
   "sources_ok": 23,
   "sources_total": 23,
-  "postings_scanned": 1593,
+  "postings_scanned": 1610,
   "candidates": 4,
   "verified": 3,
   "errors": [
@@ -21,27 +21,27 @@
     {
       "name": "Canonical",
       "status": "OK",
-      "count": 316
+      "count": 317
     },
     {
       "name": "Flo Health",
       "status": "OK",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Grafanalabs",
       "status": "OK",
-      "count": 137
+      "count": 138
     },
     {
       "name": "Wikimedia",
       "status": "OK",
-      "count": 15
+      "count": 16
     },
     {
       "name": "N26",
       "status": "OK",
-      "count": 28
+      "count": 26
     },
     {
       "name": "Contentsquare",
@@ -51,17 +51,17 @@
     {
       "name": "Heetch",
       "status": "OK",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Synthesia",
       "status": "OK",
-      "count": 29
+      "count": 28
     },
     {
       "name": "n8n",
       "status": "OK",
-      "count": 60
+      "count": 61
     },
     {
       "name": "DeepL",
@@ -71,7 +71,7 @@
     {
       "name": "ElevenLabs",
       "status": "OK",
-      "count": 123
+      "count": 128
     },
     {
       "name": "Pleo",
@@ -86,12 +86,12 @@
     {
       "name": "Lovable",
       "status": "OK",
-      "count": 77
+      "count": 80
     },
     {
       "name": "Notion",
       "status": "OK",
-      "count": 165
+      "count": 167
     },
     {
       "name": "Remotive",
@@ -116,12 +116,12 @@
     {
       "name": "Docplanner",
       "status": "OK",
-      "count": 34
+      "count": 36
     },
     {
       "name": "Perk",
       "status": "OK",
-      "count": 114
+      "count": 120
     },
     {
       "name": "Lodgify",
