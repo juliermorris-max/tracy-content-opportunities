@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-18T16:25:06.187758+00:00",
+  "attempted_at": "2026-11-19T16:32:26.939385+00:00",
   "sources_ok": 23,
   "sources_total": 23,
-  "postings_scanned": 1610,
+  "postings_scanned": 1611,
   "candidates": 4,
   "verified": 3,
   "errors": [
@@ -26,7 +26,7 @@
     {
       "name": "Flo Health",
       "status": "OK",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Grafanalabs",
@@ -41,47 +41,47 @@
     {
       "name": "N26",
       "status": "OK",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Contentsquare",
       "status": "OK",
-      "count": 28
+      "count": 25
     },
     {
       "name": "Heetch",
       "status": "OK",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Synthesia",
       "status": "OK",
-      "count": 28
+      "count": 27
     },
     {
       "name": "n8n",
       "status": "OK",
-      "count": 61
+      "count": 64
     },
     {
       "name": "DeepL",
       "status": "OK",
-      "count": 8
+      "count": 10
     },
     {
       "name": "ElevenLabs",
       "status": "OK",
-      "count": 128
+      "count": 129
     },
     {
       "name": "Pleo",
       "status": "OK",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Linear",
       "status": "OK",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Lovable",
@@ -91,12 +91,12 @@
     {
       "name": "Notion",
       "status": "OK",
-      "count": 167
+      "count": 169
     },
     {
       "name": "Remotive",
       "status": "OK",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Arbeitnow",
@@ -116,7 +116,7 @@
     {
       "name": "Docplanner",
       "status": "OK",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Perk",
