@@ -1,8 +1,8 @@
 {
-  "completed_at": "2026-11-20T16:06:41.069305+00:00",
+  "completed_at": "2026-11-21T15:19:57.841067+00:00",
   "sources_ok": 23,
   "sources_total": 23,
-  "postings_scanned": 1607,
+  "postings_scanned": 1604,
   "jobs": [
     {
       "title": "Content Marketing Manager",
@@ -104,7 +104,7 @@
     {
       "name": "Canonical",
       "status": "OK",
-      "count": 317
+      "count": 318
     },
     {
       "name": "Flo Health",
@@ -119,12 +119,12 @@
     {
       "name": "Wikimedia",
       "status": "OK",
-      "count": 15
+      "count": 12
     },
     {
       "name": "N26",
       "status": "OK",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Contentsquare",
@@ -154,12 +154,12 @@
     {
       "name": "ElevenLabs",
       "status": "OK",
-      "count": 124
+      "count": 122
     },
     {
       "name": "Pleo",
       "status": "OK",
-      "count": 31
+      "count": 33
     },
     {
       "name": "Linear",
@@ -169,17 +169,17 @@
     {
       "name": "Lovable",
       "status": "OK",
-      "count": 80
+      "count": 78
     },
     {
       "name": "Notion",
       "status": "OK",
-      "count": 169
+      "count": 170
     },
     {
       "name": "Remotive",
       "status": "OK",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Arbeitnow",
