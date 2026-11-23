@@ -1,8 +1,8 @@
 {
-  "attempted_at": "2026-11-22T15:15:34.641500+00:00",
+  "attempted_at": "2026-11-23T19:12:53.494558+00:00",
   "sources_ok": 23,
   "sources_total": 23,
-  "postings_scanned": 1604,
+  "postings_scanned": 1603,
   "candidates": 4,
   "verified": 3,
   "errors": [
@@ -26,12 +26,12 @@
     {
       "name": "Flo Health",
       "status": "OK",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Grafanalabs",
       "status": "OK",
-      "count": 140
+      "count": 139
     },
     {
       "name": "Wikimedia",
@@ -51,17 +51,17 @@
     {
       "name": "Heetch",
       "status": "OK",
-      "count": 26
+      "count": 31
     },
     {
       "name": "Synthesia",
       "status": "OK",
-      "count": 27
+      "count": 26
     },
     {
       "name": "n8n",
       "status": "OK",
-      "count": 68
+      "count": 69
     },
     {
       "name": "DeepL",
@@ -76,27 +76,27 @@
     {
       "name": "Pleo",
       "status": "OK",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Linear",
       "status": "OK",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Lovable",
       "status": "OK",
-      "count": 78
+      "count": 79
     },
     {
       "name": "Notion",
       "status": "OK",
-      "count": 170
+      "count": 171
     },
     {
       "name": "Remotive",
       "status": "OK",
-      "count": 16
+      "count": 15
     },
     {
       "name": "Arbeitnow",
@@ -116,12 +116,12 @@
     {
       "name": "Docplanner",
       "status": "OK",
-      "count": 37
+      "count": 38
     },
     {
       "name": "Perk",
       "status": "OK",
-      "count": 116
+      "count": 112
     },
     {
       "name": "Lodgify",
